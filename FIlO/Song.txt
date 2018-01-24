@@ -1,0 +1,1 @@
+Warrior Song, health=6, max health=6

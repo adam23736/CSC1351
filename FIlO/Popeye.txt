@@ -1,0 +1,1 @@
+Warrior Popeye, health=7, max health=7

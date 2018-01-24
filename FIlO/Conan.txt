@@ -1,0 +1,1 @@
+Warrior Conan, health=10, max health=10

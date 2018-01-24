@@ -1,0 +1,1 @@
+Warrior Briar, health=10, max health=10
